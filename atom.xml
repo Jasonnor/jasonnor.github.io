@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>The Jasonnor Matrix</title>
+  
+  <subtitle>一個孤獨漫步者的喃喃自語</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://jasonnor.github.io/"/>
+  <updated>2017-06-14T16:10:28.014Z</updated>
+  <id>http://jasonnor.github.io/</id>
+  
+  <author>
+    <name>Jasonnor</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>單層感知機（Perceptron）實作：使用Java Swing</title>
+    <link href="http://jasonnor.github.io/2016/12/14/Single-Layer-Perceptron/"/>
+    <id>http://jasonnor.github.io/2016/12/14/Single-Layer-Perceptron/</id>
+    <published>2016-12-14T06:21:00.000Z</published>
+    <updated>2017-06-14T16:10:28.014Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Jasonnor/Perceptron/master/assets/resultA.png&quot; alt=&quot;Preview&quot;&gt;&lt;/p&gt;&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="機器學習" scheme="http://jasonnor.github.io/categories/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92/"/>
+    
+    
+      <category term="Neural network" scheme="http://jasonnor.github.io/tags/Neural-network/"/>
+    
+      <category term="Java" scheme="http://jasonnor.github.io/tags/Java/"/>
+    
+      <category term="Machine learning" scheme="http://jasonnor.github.io/tags/Machine-learning/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Professional Codes Reader : 像專業程序員一樣地瀏覽網頁</title>
+    <link href="http://jasonnor.github.io/2016/02/03/Professional-Codes-Reader/"/>
+    <id>http://jasonnor.github.io/2016/02/03/Professional-Codes-Reader/</id>
+    <published>2016-02-03T07:51:00.000Z</published>
+    <updated>2017-06-15T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;img src=&quot;/2016/02/03/Professional-Codes-Reader/browser.jpg&quot;&gt;&lt;h2 id=&quot;發想&quot;&gt;&lt;a href=&quot;#發想&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="個人開發" scheme="http://jasonnor.github.io/categories/%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BC/"/>
+    
+    
+      <category term="Tools" scheme="http://jasonnor.github.io/tags/Tools/"/>
+    
+      <category term="Software" scheme="http://jasonnor.github.io/tags/Software/"/>
+    
+      <category term="Extension" scheme="http://jasonnor.github.io/tags/Extension/"/>
+    
+      <category term="JavaScript" scheme="http://jasonnor.github.io/tags/JavaScript/"/>
+    
+      <category term="C#" scheme="http://jasonnor.github.io/tags/C/"/>
+    
+  </entry>
+  
+</feed>
