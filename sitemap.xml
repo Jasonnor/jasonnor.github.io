@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://jasonnor.github.io/2018/09/17/tf-idf-python/</loc>
+    
+    <lastmod>2018-09-16T18:14:34.823Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://jasonnor.github.io/2018/09/09/Touhou-Project-Music-Video-Generator/</loc>
     
     <lastmod>2018-09-16T09:48:33.263Z</lastmod>

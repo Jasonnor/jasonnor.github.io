@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jasonnor.github.io/"/>
-  <updated>2018-09-16T09:48:33.263Z</updated>
+  <updated>2018-09-16T18:14:34.823Z</updated>
   <id>http://jasonnor.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基於Python的tf-idf文字探勘演算法實現：以《笑傲江湖》為例子</title>
+    <link href="http://jasonnor.github.io/2018/09/17/tf-idf-python/"/>
+    <id>http://jasonnor.github.io/2018/09/17/tf-idf-python/</id>
+    <published>2018-09-16T18:02:00.000Z</published>
+    <updated>2018-09-16T18:14:34.823Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Jasonnor/tf-idf-python/master/demo/result01.png&quot; alt=&quot;preview&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Figure 1:
+        
+      
+    
+    </summary>
+    
+      <category term="個人開發" scheme="http://jasonnor.github.io/categories/%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BC/"/>
+    
+    
+      <category term="Python" scheme="http://jasonnor.github.io/tags/Python/"/>
+    
+      <category term="Data-Mining" scheme="http://jasonnor.github.io/tags/Data-Mining/"/>
+    
+      <category term="Natural-Language-Processing" scheme="http://jasonnor.github.io/tags/Natural-Language-Processing/"/>
+    
+  </entry>
   
   <entry>
     <title>東方Project原曲MV線上生成播放器</title>
@@ -94,13 +124,13 @@
       <category term="個人開發" scheme="http://jasonnor.github.io/categories/%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BC/"/>
     
     
-      <category term="JavaScript" scheme="http://jasonnor.github.io/tags/JavaScript/"/>
-    
       <category term="Tools" scheme="http://jasonnor.github.io/tags/Tools/"/>
     
       <category term="Software" scheme="http://jasonnor.github.io/tags/Software/"/>
     
       <category term="Extension" scheme="http://jasonnor.github.io/tags/Extension/"/>
+    
+      <category term="JavaScript" scheme="http://jasonnor.github.io/tags/JavaScript/"/>
     
       <category term="C#" scheme="http://jasonnor.github.io/tags/C/"/>
     
