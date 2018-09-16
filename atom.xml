@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jasonnor.github.io/"/>
-  <updated>2018-09-16T18:14:34.823Z</updated>
+  <updated>2018-09-16T18:54:36.355Z</updated>
   <id>http://jasonnor.github.io/</id>
   
   <author>
@@ -21,17 +21,11 @@
     <link href="http://jasonnor.github.io/2018/09/17/tf-idf-python/"/>
     <id>http://jasonnor.github.io/2018/09/17/tf-idf-python/</id>
     <published>2018-09-16T18:02:00.000Z</published>
-    <updated>2018-09-16T18:14:34.823Z</updated>
+    <updated>2018-09-16T18:54:36.355Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Jasonnor/tf-idf-python/master/demo/result01.png&quot; alt=&quot;preview&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Figure 1:
-        
-      
+      &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Jasonnor/tf-idf-python/master/demo/result01.png&quot; alt=&quot;preview&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Figure 1: 輸入「笑傲江湖」文件集合，每份文件為小說中的一個章回，輸出每章前 K 高的字詞和其權重。&lt;/em&gt;&lt;/p&gt;&lt;h2 id=&quot;簡介&quot;&gt;&lt;a href=&quot;#簡介&quot; class=&quot;headerlink&quot; title=&quot;簡介&quot;&gt;&lt;/a&gt;簡介&lt;/h2&gt;&lt;p&gt;tf-idf（term frequency－inverse document frequency）是一種用於資訊檢索與文字探勘的常用加權技術，為一種統計方法，評估字詞對於「文件集合」或「語料庫中的一份文件」的重要程度。詳細方法和公式可參見&lt;a href=&quot;https://zh.wikipedia.org/wiki/Tf-idf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Wikipedia&lt;/a&gt;，不再贅述。&lt;/p&gt;&lt;p&gt;本項目為實作 tf-idf ，輸入給定「一組有特定集合關系的文件」（例如某本小說），輸出為每份文件的 tf-idf 權重值結果，具體為顯示前 k 高的「字詞」和其權重值，如 Figure 1 所示。另外也可以輸入某個字詞，輸出該字詞在所有文件中的權重值。&lt;/p&gt;&lt;p&gt;Repo：&lt;a href=&quot;https://github.com/Jasonnor/tf-idf-python&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/Jasonnor/tf-idf-python&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
@@ -51,17 +45,11 @@
     <link href="http://jasonnor.github.io/2018/09/09/Touhou-Project-Music-Video-Generator/"/>
     <id>http://jasonnor.github.io/2018/09/09/Touhou-Project-Music-Video-Generator/</id>
     <published>2018-09-09T12:17:00.000Z</published>
-    <updated>2018-09-16T09:48:33.263Z</updated>
+    <updated>2018-09-16T18:53:34.359Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;&lt;img src=&quot;https://github.com/Jasonnor/th-music-video-generator/raw/master/images/demo/main.gif&quot; alt=&quot;preview&quot;&gt;&lt;/p&gt;&lt;p&gt;項目地址：&lt;a
-        
-      
+      &lt;p&gt;&lt;img src=&quot;https://github.com/Jasonnor/th-music-video-generator/raw/master/images/demo/main.gif&quot; alt=&quot;preview&quot;&gt;&lt;/p&gt;&lt;p&gt;Repo：&lt;a href=&quot;https://github.com/Jasonnor/th-music-video-generator&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/Jasonnor/th-music-video-generator&lt;/a&gt;&lt;/p&gt;&lt;p&gt;連結：&lt;a href=&quot;https://jasonnor.github.io/th-music-video-generator&quot;&gt;https://jasonnor.github.io/th-music-video-generator&lt;/a&gt;&lt;/p&gt;&lt;h2 id=&quot;動機&quot;&gt;&lt;a href=&quot;#動機&quot; class=&quot;headerlink&quot; title=&quot;動機&quot;&gt;&lt;/a&gt;動機&lt;/h2&gt;&lt;p&gt;最近想做個東方原曲個人向Top50，編排MV過程中，覺得部分元素可以自動化產生（例如進場配圖、遊戲畫面皆能爬蟲取得），而且比較少有同時包含配圖和彈幕畫面的原曲MV（個人認為彈幕也是欣賞東方原曲不可缺少的要素之一），於是萌生了這個項目的概念。&lt;/p&gt;
     
     </summary>
     
@@ -77,17 +65,11 @@
     <link href="http://jasonnor.github.io/2016/12/14/Single-Layer-Perceptron/"/>
     <id>http://jasonnor.github.io/2016/12/14/Single-Layer-Perceptron/</id>
     <published>2016-12-14T06:21:00.000Z</published>
-    <updated>2017-06-14T16:10:28.014Z</updated>
+    <updated>2018-09-16T18:50:24.030Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Jasonnor/Perceptron/master/assets/resultA.png&quot; alt=&quot;Preview&quot;&gt;&lt;/p&gt;&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a
-        
-      
+      &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Jasonnor/Perceptron/master/assets/resultA.png&quot; alt=&quot;Preview&quot;&gt;&lt;/p&gt;&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;p&gt;Single-Layer Perceptron的模擬實作，具體使用了基本的感知機學習演算法和收斂定理。輸入含有數個群組的多維資料集，將資料平均切分（每份大致同群數量相等），其中2/3資料給予程式訓練感知機，其餘1/3資料用於測試訓練完畢的感知機，目的為訓練出切割數個群組的超平面與鍵結值，顯示結果於圖形介面。&lt;/p&gt;&lt;p&gt;Repo：&lt;a href=&quot;https://github.com/Jasonnor/Perceptron&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/Jasonnor/Perceptron&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
@@ -111,13 +93,7 @@
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;img src=&quot;/2016/02/03/Professional-Codes-Reader/browser.jpg&quot;&gt;&lt;h2 id=&quot;發想&quot;&gt;&lt;a href=&quot;#發想&quot; class=&quot;headerlink&quot;
-        
-      
+      &lt;img src=&quot;/2016/02/03/Professional-Codes-Reader/browser.jpg&quot;&gt;&lt;h2 id=&quot;發想&quot;&gt;&lt;a href=&quot;#發想&quot; class=&quot;headerlink&quot; title=&quot;發想&quot;&gt;&lt;/a&gt;發想&lt;/h2&gt;&lt;p&gt;最近我在實習閒暇之餘，會逛一些科技網站來充實自己，不過身在一個拚勁十足的上市公司，隨時都有人能看到你的螢幕，我這個人臉皮薄，不好意思讓別人看到自己沒在工作，於是想了想，看什麼類型的文章才不會顯得特別突兀？&lt;/p&gt;&lt;p&gt;瞬間想到的答案：&lt;strong&gt;含有程式的文章&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;不管是查資料、Debug、找API，畫面上似乎都會有一行行的程式來顯示這個頁面的專業性，想想如果看到同事在瀏覽Stack Overflow，你應該不會認為這傢伙是在偷懶，反而會同情他又有哪個專案趕不完正努力著──這就是我想要的效果！&lt;/p&gt;&lt;p&gt;Repo：&lt;a href=&quot;https://github.com/Jasonnor/Professional-Codes-Reader&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/Jasonnor/Professional-Codes-Reader&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
