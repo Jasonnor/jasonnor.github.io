@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://jasonnor.github.io/2018/09/21/tf-data-2018-GDD/</loc>
+    
+    <lastmod>2018-09-21T11:35:54.714Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://jasonnor.github.io/2018/09/17/tf-idf-python/</loc>
     
     <lastmod>2018-09-16T18:54:36.355Z</lastmod>
