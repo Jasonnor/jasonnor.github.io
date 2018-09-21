@@ -34,9 +34,9 @@
     
       <category term="Machine learning" scheme="http://jasonnor.github.io/tags/Machine-learning/"/>
     
-      <category term="Python" scheme="http://jasonnor.github.io/tags/Python/"/>
-    
       <category term="TensorFlow" scheme="http://jasonnor.github.io/tags/TensorFlow/"/>
+    
+      <category term="Python" scheme="http://jasonnor.github.io/tags/Python/"/>
     
   </entry>
   
@@ -45,7 +45,7 @@
     <link href="http://jasonnor.github.io/2018/09/17/tf-idf-python/"/>
     <id>http://jasonnor.github.io/2018/09/17/tf-idf-python/</id>
     <published>2018-09-16T18:02:00.000Z</published>
-    <updated>2018-09-16T18:54:36.355Z</updated>
+    <updated>2018-09-21T14:18:28.668Z</updated>
     
     <summary type="html">
     
@@ -69,7 +69,7 @@
     <link href="http://jasonnor.github.io/2018/09/09/Touhou-Project-Music-Video-Generator/"/>
     <id>http://jasonnor.github.io/2018/09/09/Touhou-Project-Music-Video-Generator/</id>
     <published>2018-09-09T12:17:00.000Z</published>
-    <updated>2018-09-16T18:53:34.359Z</updated>
+    <updated>2018-09-21T14:17:54.397Z</updated>
     
     <summary type="html">
     
@@ -89,7 +89,7 @@
     <link href="http://jasonnor.github.io/2016/12/14/Single-Layer-Perceptron/"/>
     <id>http://jasonnor.github.io/2016/12/14/Single-Layer-Perceptron/</id>
     <published>2016-12-14T06:21:00.000Z</published>
-    <updated>2018-09-16T18:50:24.030Z</updated>
+    <updated>2018-09-21T14:19:25.602Z</updated>
     
     <summary type="html">
     
@@ -102,9 +102,9 @@
     
       <category term="Neural network" scheme="http://jasonnor.github.io/tags/Neural-network/"/>
     
-      <category term="Java" scheme="http://jasonnor.github.io/tags/Java/"/>
-    
       <category term="Machine learning" scheme="http://jasonnor.github.io/tags/Machine-learning/"/>
+    
+      <category term="Java" scheme="http://jasonnor.github.io/tags/Java/"/>
     
   </entry>
   
