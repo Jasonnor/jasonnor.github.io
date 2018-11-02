@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jasonnor.github.io/"/>
-  <updated>2018-09-16T18:54:36.355Z</updated>
+  <updated>2018-11-02T17:13:50.853Z</updated>
   <id>http://jasonnor.github.io/</id>
   
   <author>
@@ -17,11 +17,57 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>基於Python的tf-idf文字探勘演算法實現：以《笑傲江湖》為例子</title>
+    <title>AI/ML/DL/CV 相關面試心得（長文）</title>
+    <link href="http://jasonnor.github.io/2018/11/03/AI-ML-DL-CV-Interview-Experience/"/>
+    <id>http://jasonnor.github.io/2018/11/03/AI-ML-DL-CV-Interview-Experience/</id>
+    <published>2018-11-02T16:00:00.000Z</published>
+    <updated>2018-11-02T17:13:50.853Z</updated>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2018/11/03/AI-ML-DL-CV-Interview-Experience/title.png&quot;&gt;&lt;p&gt;過去曾受益於許多面試經驗，現在輪到小弟出社會面試了，前來回饋心得。個人背景：115應屆CS碩，雜事纏身拖到10月才開始面試，研究領域為 Computer Vision 相關，碩論做 3D Object Detection 偏自動駕駛領域。104履歷設定不開放，只找 ML/CV 相關職位主動投（關鍵字：AI、機器學習、深度學習、電腦視覺，以及上述英文），鎖定台北區域，有過濾掉不少看起來有風險的職缺。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="雜文" scheme="http://jasonnor.github.io/categories/%E9%9B%9C%E6%96%87/"/>
+    
+    
+      <category term="Machine learning" scheme="http://jasonnor.github.io/tags/Machine-learning/"/>
+    
+      <category term="Interview" scheme="http://jasonnor.github.io/tags/Interview/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>以 tf.data 優化訓練資料輸入管道 丨 2018 Google 開發者大會</title>
+    <link href="http://jasonnor.github.io/2018/09/21/tf-data-2018-GDD/"/>
+    <id>http://jasonnor.github.io/2018/09/21/tf-data-2018-GDD/</id>
+    <published>2018-09-21T11:30:00.000Z</published>
+    <updated>2018-09-21T14:48:01.506Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/nBLUAAs.png&quot; alt=&quot;preview&quot;&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;本篇文章受&lt;a href=&quot;https://juejin.im/post/5ba4b2a7f265da0ab719aa7e&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;掘金邀請撰寫&lt;/a&gt;，更多GCC 2018演講介紹歡迎前往：&lt;a href=&quot;https://juejin.im/e/gdd&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;2018 Google 開發者大會 掘金專題&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;GDD 2018 第二天的 9 月 21 日 ，陳爽（Google Brain 軟體工程師）為我們帶來了《以 tf.data 優化訓練數據》，講解如何使用 tf.data 為各類模型打造高性能的 TensorFlow 輸入渠道，本文將摘錄演講技術干貨。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="機器學習" scheme="http://jasonnor.github.io/categories/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92/"/>
+    
+    
+      <category term="Machine learning" scheme="http://jasonnor.github.io/tags/Machine-learning/"/>
+    
+      <category term="TensorFlow" scheme="http://jasonnor.github.io/tags/TensorFlow/"/>
+    
+      <category term="Python" scheme="http://jasonnor.github.io/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基於 Python 的 tf-idf 文字探勘演算法實現：以《笑傲江湖》為例子</title>
     <link href="http://jasonnor.github.io/2018/09/17/tf-idf-python/"/>
     <id>http://jasonnor.github.io/2018/09/17/tf-idf-python/</id>
     <published>2018-09-16T18:02:00.000Z</published>
-    <updated>2018-09-16T18:54:36.355Z</updated>
+    <updated>2018-11-02T17:14:45.284Z</updated>
     
     <summary type="html">
     
@@ -45,7 +91,7 @@
     <link href="http://jasonnor.github.io/2018/09/09/Touhou-Project-Music-Video-Generator/"/>
     <id>http://jasonnor.github.io/2018/09/09/Touhou-Project-Music-Video-Generator/</id>
     <published>2018-09-09T12:17:00.000Z</published>
-    <updated>2018-09-16T18:53:34.359Z</updated>
+    <updated>2018-09-21T14:17:54.397Z</updated>
     
     <summary type="html">
     
@@ -61,11 +107,11 @@
   </entry>
   
   <entry>
-    <title>單層感知機（Perceptron）實作：使用Java Swing</title>
+    <title>單層感知機（Perceptron）實作：使用 Java Swing</title>
     <link href="http://jasonnor.github.io/2016/12/14/Single-Layer-Perceptron/"/>
     <id>http://jasonnor.github.io/2016/12/14/Single-Layer-Perceptron/</id>
     <published>2016-12-14T06:21:00.000Z</published>
-    <updated>2018-09-16T18:50:24.030Z</updated>
+    <updated>2018-11-02T17:15:25.948Z</updated>
     
     <summary type="html">
     
