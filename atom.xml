@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jasonnor.github.io/"/>
-  <updated>2018-09-21T14:48:01.506Z</updated>
+  <updated>2018-11-02T17:13:50.853Z</updated>
   <id>http://jasonnor.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AI/ML/DL/CV 相關面試心得（長文）</title>
+    <link href="http://jasonnor.github.io/2018/11/03/AI-ML-DL-CV-Interview-Experience/"/>
+    <id>http://jasonnor.github.io/2018/11/03/AI-ML-DL-CV-Interview-Experience/</id>
+    <published>2018-11-02T16:00:00.000Z</published>
+    <updated>2018-11-02T17:13:50.853Z</updated>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2018/11/03/AI-ML-DL-CV-Interview-Experience/title.png&quot;&gt;&lt;p&gt;過去曾受益於許多面試經驗，現在輪到小弟出社會面試了，前來回饋心得。個人背景：115應屆CS碩，雜事纏身拖到10月才開始面試，研究領域為 Computer Vision 相關，碩論做 3D Object Detection 偏自動駕駛領域。104履歷設定不開放，只找 ML/CV 相關職位主動投（關鍵字：AI、機器學習、深度學習、電腦視覺，以及上述英文），鎖定台北區域，有過濾掉不少看起來有風險的職缺。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="雜文" scheme="http://jasonnor.github.io/categories/%E9%9B%9C%E6%96%87/"/>
+    
+    
+      <category term="Machine learning" scheme="http://jasonnor.github.io/tags/Machine-learning/"/>
+    
+      <category term="Interview" scheme="http://jasonnor.github.io/tags/Interview/"/>
+    
+  </entry>
   
   <entry>
     <title>以 tf.data 優化訓練資料輸入管道 丨 2018 Google 開發者大會</title>
@@ -41,11 +63,11 @@
   </entry>
   
   <entry>
-    <title>基於Python的tf-idf文字探勘演算法實現：以《笑傲江湖》為例子</title>
+    <title>基於 Python 的 tf-idf 文字探勘演算法實現：以《笑傲江湖》為例子</title>
     <link href="http://jasonnor.github.io/2018/09/17/tf-idf-python/"/>
     <id>http://jasonnor.github.io/2018/09/17/tf-idf-python/</id>
     <published>2018-09-16T18:02:00.000Z</published>
-    <updated>2018-09-21T14:18:28.668Z</updated>
+    <updated>2018-11-02T17:14:45.284Z</updated>
     
     <summary type="html">
     
@@ -85,11 +107,11 @@
   </entry>
   
   <entry>
-    <title>單層感知機（Perceptron）實作：使用Java Swing</title>
+    <title>單層感知機（Perceptron）實作：使用 Java Swing</title>
     <link href="http://jasonnor.github.io/2016/12/14/Single-Layer-Perceptron/"/>
     <id>http://jasonnor.github.io/2016/12/14/Single-Layer-Perceptron/</id>
     <published>2016-12-14T06:21:00.000Z</published>
-    <updated>2018-09-21T14:19:25.602Z</updated>
+    <updated>2018-11-02T17:15:25.948Z</updated>
     
     <summary type="html">
     
@@ -102,9 +124,9 @@
     
       <category term="Neural network" scheme="http://jasonnor.github.io/tags/Neural-network/"/>
     
-      <category term="Machine learning" scheme="http://jasonnor.github.io/tags/Machine-learning/"/>
-    
       <category term="Java" scheme="http://jasonnor.github.io/tags/Java/"/>
+    
+      <category term="Machine learning" scheme="http://jasonnor.github.io/tags/Machine-learning/"/>
     
   </entry>
   
