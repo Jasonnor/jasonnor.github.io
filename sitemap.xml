@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://jasonnor.github.io/2018/11/03/AI-ML-DL-CV-Interview-Experience/</loc>
+    
+    <lastmod>2018-11-03T02:22:42.679Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://jasonnor.github.io/2016/12/14/Single-Layer-Perceptron/</loc>
     
     <lastmod>2018-11-02T17:15:25.948Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://jasonnor.github.io/2018/09/17/tf-idf-python/</loc>
     
     <lastmod>2018-11-02T17:14:45.284Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jasonnor.github.io/2018/11/03/AI-ML-DL-CV-Interview-Experience/</loc>
-    
-    <lastmod>2018-11-02T17:13:50.853Z</lastmod>
     
   </url>
   
