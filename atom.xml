@@ -56,9 +56,9 @@
     
       <category term="Machine learning" scheme="http://jasonnor.github.io/tags/Machine-learning/"/>
     
-      <category term="TensorFlow" scheme="http://jasonnor.github.io/tags/TensorFlow/"/>
-    
       <category term="Python" scheme="http://jasonnor.github.io/tags/Python/"/>
+    
+      <category term="TensorFlow" scheme="http://jasonnor.github.io/tags/TensorFlow/"/>
     
   </entry>
   
@@ -124,9 +124,9 @@
     
       <category term="Neural network" scheme="http://jasonnor.github.io/tags/Neural-network/"/>
     
-      <category term="Java" scheme="http://jasonnor.github.io/tags/Java/"/>
-    
       <category term="Machine learning" scheme="http://jasonnor.github.io/tags/Machine-learning/"/>
+    
+      <category term="Java" scheme="http://jasonnor.github.io/tags/Java/"/>
     
   </entry>
   
@@ -146,13 +146,13 @@
       <category term="個人開發" scheme="http://jasonnor.github.io/categories/%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BC/"/>
     
     
+      <category term="JavaScript" scheme="http://jasonnor.github.io/tags/JavaScript/"/>
+    
       <category term="Tools" scheme="http://jasonnor.github.io/tags/Tools/"/>
     
       <category term="Software" scheme="http://jasonnor.github.io/tags/Software/"/>
     
       <category term="Extension" scheme="http://jasonnor.github.io/tags/Extension/"/>
-    
-      <category term="JavaScript" scheme="http://jasonnor.github.io/tags/JavaScript/"/>
     
       <category term="C#" scheme="http://jasonnor.github.io/tags/C/"/>
     
