@@ -56,9 +56,9 @@
     
       <category term="Machine learning" scheme="http://jasonnor.github.io/tags/Machine-learning/"/>
     
-      <category term="Python" scheme="http://jasonnor.github.io/tags/Python/"/>
-    
       <category term="TensorFlow" scheme="http://jasonnor.github.io/tags/TensorFlow/"/>
+    
+      <category term="Python" scheme="http://jasonnor.github.io/tags/Python/"/>
     
   </entry>
   
