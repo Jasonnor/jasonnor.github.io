@@ -56,9 +56,9 @@
     
       <category term="Machine learning" scheme="http://jasonnor.github.io/tags/Machine-learning/"/>
     
-      <category term="TensorFlow" scheme="http://jasonnor.github.io/tags/TensorFlow/"/>
-    
       <category term="Python" scheme="http://jasonnor.github.io/tags/Python/"/>
+    
+      <category term="TensorFlow" scheme="http://jasonnor.github.io/tags/TensorFlow/"/>
     
   </entry>
   
@@ -122,11 +122,11 @@
       <category term="機器學習" scheme="http://jasonnor.github.io/categories/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92/"/>
     
     
-      <category term="Neural network" scheme="http://jasonnor.github.io/tags/Neural-network/"/>
-    
       <category term="Machine learning" scheme="http://jasonnor.github.io/tags/Machine-learning/"/>
     
       <category term="Java" scheme="http://jasonnor.github.io/tags/Java/"/>
+    
+      <category term="Neural network" scheme="http://jasonnor.github.io/tags/Neural-network/"/>
     
   </entry>
   
